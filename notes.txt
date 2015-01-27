@@ -1,0 +1,30 @@
+Creative Brief: What are we designing, who are we designing for? Who is the audience? 
+
+Primary and Secondary meaning. 
+
+5 adjectives to describe the brand ---> what am I trying to get across?? 
+
+
+Visual Design Purposes: 1. Emotion, 2. Description, 3. Structure, 4. Communication (communicate without saying a word)
+
+The logo alone can set the stage for a feeling about the brand. 
+
+Putting your thoughts on paper is very important. The first design is usually not the chosen one. 
+
+Emotion: Heart in Airbnb announcements
+
+Structure: Airbnb example: Search is prominent, there is a primary draw for the page. 
+		   The how-to process is generally simplified with visual design, including a step that includes an image and text. 
+
+
+Basic Elements: Layout, Graphics, Text, Color
+
+Layout: Contrast: weight, size, typography, hierarchy
+        Alignment: 101 to get down, separates clean design from non-good one. 
+        Repetition: using similar patterns throughout the design, consistency, makes things feel unified
+        Proximity: things that are related are close together, things that are different are farther away
+
+
+The Grid: Really useful for alignment. 
+          Dribble -> to get a grid
+          CSS -> 960 grid system 
