@@ -1,16 +1,10 @@
 Creative Brief: What are we designing, who are we designing for? Who is the audience? 
-
 Primary and Secondary meaning. 
-
 5 adjectives to describe the brand ---> what am I trying to get across?? 
 
-
 Visual Design Purposes: 1. Emotion, 2. Description, 3. Structure, 4. Communication (communicate without saying a word)
-
 The logo alone can set the stage for a feeling about the brand. 
-
 Putting your thoughts on paper is very important. The first design is usually not the chosen one. 
-
 Emotion: Heart in Airbnb announcements
 
 Structure: Airbnb example: Search is prominent, there is a primary draw for the page. 
@@ -28,3 +22,65 @@ Layout: Contrast: weight, size, typography, hierarchy
 The Grid: Really useful for alignment. 
           Dribble -> to get a grid
           CSS -> 960 grid system 
+
+
+Graphics: 
+Graphical Elements: Most common elements are lines, 
+                    Geometric shapes, 
+                    Textures: mostly used offline but making its way online
+                    Icons: specifically in mobile
+                    Photos: really makes an impact on sites, can sometimes be used with illustrations, does not often work: Stock photos, unsplash, death to stock photo, 
+                    Illustrations: Know when to use them depending on objectives, creative market, sketch (built for UI design), freeicon.com, 
+
+Example: Yahoo weather app: bringing beautiful photography to the weather app. When showing the weather information, the photo is blurred so to not confuse the reader. Lots of icons and lines are used in the app. 
+
+Hipmunk: All using geometric shapes with icons. Simple 101 type graphical elements. 
+
+
+Typography: 
+
+Font vs. Typeface
+
+Typeface: actual name of the type
+Font: varying forms of the typeface, bold, italic, demi, medium, etc. 
+
+FontSquirrel -> great site to get fonts and also to create webfonts. 
+
+Most common Typefaces: Helvetica 
+Other commont Typefaces: Helvetica Neue, Proxima Nova, Open Sans, Avenir, Lato, Futura, Tahoma, Myraid, Arial
+
+Most important things for Typefaces: Size, size scaling for responsive design, line spacing, line height, contrast, scale, color (slight gray or off white)
+
+x height: from the top to the bottom of the letter
+kerning: space between specific letters
+
+On mobile it's important to get right to the content without extra information.
+
+typeconnect : website to try out typefaces and see how well they work together 
+fontfox : website to guess the typeface (gamified)
+
+Color: Color theory ---> Most common use of colors: complimentary colors. Generally limit color choices to 2-3 not more. Adobe Kuler is a great site for color palettes. 
+
+Screens show color differently. Color on screens looks different than on Print. 
+
+Screen: use RGB
+Print: use CYMK 
+
+Pantone colors: used for print, can use the pantone palette, very expensive to print. 
+
+Color Meaning: Red: Passion, love, anger
+               Orange: health, vitality
+               Yellow: happiness, cheer, hope
+               Green: money, nature, growth
+               Blue: calm, energetic, reliable
+               Purple: royal, wealth, creative
+               Black: elegance, mystery, evil
+               White: clean, pure, virtue
+               Brown: nature, dependable
+               Gray: formal, conservative
+               Gold: accent color
+
+Colormatter: website with color meanings and how people perceive color 
+
+
+
